@@ -9,5 +9,6 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
         Message('App published: Hello world');
         Message('App Published: Testing 01');
         Message('Hello World 3');
+        Message('Hello World 4');
     end;
 }
