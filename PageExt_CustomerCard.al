@@ -6,6 +6,7 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Customer Card Ext');
+        Message('App published: Hello world');
+        Message('App Published: Testing 01');
     end;
 }
