@@ -11,5 +11,6 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
         Message('Hello World 3');
         Message('Hello World 4');
         Message('Hello World 5');
+        Message('Hello World T08');
     end;
 }
