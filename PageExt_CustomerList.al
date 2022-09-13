@@ -7,5 +7,6 @@ pageextension 50100 CustomerListExt2 extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published: This is just a testing');
+        Message('Hello World 5 - testing');
     end;
 }
