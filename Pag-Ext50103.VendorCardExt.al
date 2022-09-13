@@ -7,5 +7,9 @@ pageextension 50103 "Vendor Card Ext" extends "Vendor Card"
             Visible = true;
             ApplicationArea = All;
         }
+        modify("Balance (LCY)")
+        {
+            Visible = false;
+        }
     }
 }

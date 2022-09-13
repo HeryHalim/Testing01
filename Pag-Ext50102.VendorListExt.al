@@ -7,5 +7,9 @@ pageextension 50102 "Vendor List Ext" extends "Vendor List"
             Visible = true;
             ApplicationArea = all;
         }
+        modify("Balance (LCY)")
+        {
+            Visible = false;
+        }
     }
 }
